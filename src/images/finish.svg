@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 13.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 14948)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Background" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="1024px" height="576px" viewBox="0 0 1024 576" enable-background="new 0 0 1024 576" xml:space="preserve">
+
+<g>
+	<radialGradient id="star_x5F_finish_1_" cx="484.5757" cy="246.2158" r="166.1409" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFF00"/>
+		<stop  offset="1" style="stop-color:#FBB03B"/>
+	</radialGradient>
+	<polygon id="star_finish" fill="url(#star_x5F_finish_1_)" points="484.576,84.293 537.188,190.896 654.831,207.991 
+		569.703,290.97 589.8,408.138 484.576,352.819 379.352,408.138 399.448,290.97 314.32,207.991 431.964,190.896 "/>
+	<rect x="312.424" y="234.196" fill="none" width="356.33" height="74.05"/>
+	<text id="text_bravo" transform="matrix(1 0 0 1 312.4243 297.2031)"><tspan x="0" y="0" fill="#93278F" font-family="'ArialMT'" font-size="88">BR</tspan><tspan x="122.246" y="0" fill="#93278F" font-family="'ArialMT'" font-size="88" letter-spacing="-6">A</tspan><tspan x="174.41" y="0" fill="#93278F" font-family="'ArialMT'" font-size="88">VO !</tspan></text>
+</g>
+
+</svg>

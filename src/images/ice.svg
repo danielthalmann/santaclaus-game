@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="ice" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="64px" height="64px" viewBox="0 0 64 64" xml:space="preserve">
+	<g>
+		<path fill="#92D5D9" d="M64,36c0,6.627-5.373,12-12,12H12C5.373,48,0,42.627,0,36V12C0,5.373,5.373,0,12,0h40
+			c6.627,0,12,5.373,12,12V36z"/>
+		<path fill="#B9E0CF" d="M60,32c0,6.627-5.373,12-12,12H16C9.373,44,4,38.627,4,32V16C4,9.373,9.373,4,16,4h32
+				c6.627,0,12,5.373,12,12V32z"/>
+		<path fill="#FFFFFF" d="M36,8h12c0,0,8,0,8,4s0,8,0,8s0-4-4-8S36,8,36,8z"/>
+	</g>
+</svg>

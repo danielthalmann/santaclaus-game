@@ -1,0 +1,6 @@
+{
+    "require": {
+        "tedivm/jshrink": "^1.2",
+        "components/jquery": "^3.7"
+    }
+}

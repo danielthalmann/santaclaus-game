@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="sapin" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="103.556px" height="136px" viewBox="0 0 103.556 136" enable-background="new 0 0 103.556 136" xml:space="preserve">
+<g>
+<polygon fill="#B9965A" points="36,136 44,112 48,112 44,136 "/>
+<polygon fill="#725D39" points="60,136 64,112 48,112 44,136 "/>
+<path fill="#315025" d="M60,0c0,12,24,36,24,36s-8-4-16-4s32,44,32,44s-12-8-24-8s24,36,24,36s-28,12-48,12c-20,0-52-16-52-16
+	s52-32,40-32c-12,0-32,8-32,8s48-44,40-44c-8,0-16,4-16,4S60,12,60,0z"/>
+<path fill="#DEF1F5" d="M84,92c0,0,8,0,16,4s0,8,0,8l-20,4l-16,4c0,0-4-4,0-12S84,92,84,92z"/>
+<path fill="#DEF1F5" d="M64,44c4,0,24,12,24,16s-12,4-16,4s-8.125-8.5-8.125-8.5S60,44,64,44z"/>
+<path fill="#DEF1F5" d="M40,80c0,0-16,0-28,8s-8,12-8,12s20,8,24,8s16-4,20-12C52,88,40,80,40,80z"/>
+<path fill="#DEF1F5" d="M52,12c8,0,8,4,8,4s-4,8-12,12c-8,4-12,4-12,0S44,12,52,12z"/>
+<ellipse fill="#FFFFFF" cx="24" cy="88" rx="8" ry="4"/>
+<ellipse fill="#FFFFFF" cx="52" cy="14" rx="4" ry="2"/>
+<ellipse transform="matrix(0.8823 0.4707 -0.4707 0.8823 35.0657 -31.0685)" fill="#FFFFFF" cx="79.655" cy="54.58" rx="4" ry="2"/>
+<ellipse fill="#FFFFFF" cx="84" cy="98" rx="12" ry="2"/>
+</g>
+</svg>
